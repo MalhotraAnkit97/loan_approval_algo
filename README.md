@@ -1,3 +1,4 @@
+<img width="770" alt="image" src="https://github.com/user-attachments/assets/986a4031-7d51-4f61-969e-26e1c3a52115" />
 # **Loan Approval Decision-Making**
 
 ## **Project Overview**
